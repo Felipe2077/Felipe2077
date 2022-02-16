@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
-- 📫 you can find me on Linkedin: https://bit.ly/3JnMroe
+- 📫 you can find me on:  beacons.ai/feliperama
 
 
 <!---
