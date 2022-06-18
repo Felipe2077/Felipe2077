@@ -4,6 +4,7 @@
 
 - 🌱 Estou estudando atualmente: HTML, CSS and JavaScript.
 
+- Meu portifólio e contato: https://felipe2077.github.io/portifolio/
 
 <div align="center">
   <a href="https://beacons.ai/feliperama">
