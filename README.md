@@ -7,7 +7,7 @@
 - Meu portifólio e contato: https://felipe2077.github.io/portifolio/
 
 <div align="center">
-  <a href="https://beacons.ai/feliperama">
+  <a href="https://felipe2077.github.io/portifolio/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe2077&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe2077&layout=compact&langs_count=7&theme=onedark"/>
 </div>
