@@ -1,8 +1,8 @@
 ## - 👋 Olá, eu sou o Felipe!
 
-- 👀 Estou estudando para me tornar um desenvolvedor Front End
+- 👀 Estou estudando para me tornar um Dev 
 
-- 🌱 Estou estudando atualmente: HTML, CSS and JavaScript.
+- 🌱 Estou estudando atualmente:JAVA no backend e React no front.
 
 - Meu portifólio e contato: https://felipe2077.github.io/portifolio/
 
